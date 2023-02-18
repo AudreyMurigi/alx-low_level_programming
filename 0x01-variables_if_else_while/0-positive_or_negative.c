@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
- * main - distinguishing numbers of n 
+/**
+ * main -Prints a random number and states whether it is positive, negative or zero.
  *
  * Return: 0
  */
