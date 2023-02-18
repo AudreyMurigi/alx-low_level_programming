@@ -2,11 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 
-/**
+/*
  * main - distinguishing numbers of n 
  *
  * Return: 0
- * /
+ */
 int main(void)
 {
 	int n;
